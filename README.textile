@@ -1,0 +1,17 @@
+h1. NinFormHelper
+
+A Form extension.
+
+Allow more options like:
+
+# severals inputs at the same line;
+# severals buttons at the same line;
+
+h2. Authors
+
+* "*FelipeVR*":http://felipevr.eti.br
+* "*Kataoka*"
+
+h2. Licence
+
+NinFormHelper is licensed under both the MIT License and the GNU General Public License.
